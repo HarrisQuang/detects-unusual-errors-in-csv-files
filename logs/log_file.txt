@@ -1,0 +1,17 @@
+2019-10-30 15:21:12 ERROR/WARNING: ERROR: The format of DBDetectOutlier is incorrect
+2019-10-31 21:30:01 ERROR/WARNING: ERROR: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:54:42 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:54:52 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:55:07 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:55:23 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:56:07 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:56:25 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 17:57:00 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 18:00:45 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 18:01:09 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 18:01:34 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 18:01:45 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-02 18:03:39 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-07 14:24:26 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-08 16:07:31 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
+2019-11-09 09:56:15 ERROR/WARNING: The format of DBDetectOutlier file is incorrect
